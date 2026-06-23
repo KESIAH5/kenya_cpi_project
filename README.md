@@ -26,3 +26,5 @@ deduplicated CPI and inflation data.
 
 ## Author
 Kesiah Nyaruai Nderitu
+## Dashboard Preview
+![Kenya CPI Dashboard](assets/dashboard screenshot.png)
